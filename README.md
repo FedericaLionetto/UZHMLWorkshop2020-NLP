@@ -1,5 +1,5 @@
 # UZH ML Workshop 2020 - Tutorial "A Machine Learning journey from customer reviews to business insights"
-A repository for the ML@UZH 2020 Workshop
+A repository for the ML@UZH 2020 Workshop.
 
 In case of any problems, contact us via:
  - Federica Lionetto: federica.lionetto@gmail.com
