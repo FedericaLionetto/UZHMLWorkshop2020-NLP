@@ -7,7 +7,7 @@ In case of technical problems with the repository, you can contact us at:
  - Davide Lancierini: davide.lancierini@uzh.ch
  - Vinicius Mikuni: vinicius.mikuni@uzh.ch
  
-## Prepare for the tutorials
+## Prepare for the tutorial
 
  - In a browser page, open [Google Colab](https://colab.research.google.com/).
  - If needed, log in with your Google account and select the tab "GitHub" from the prompt menu. 
@@ -16,7 +16,7 @@ In case of technical problems with the repository, you can contact us at:
    This will allow you to check that you can correctly import the helper functions into the Jupyter notebook.
  - Make sure this works and report if any troubles arise.
 
-## Data
+## Download the data
 
 You do not need to download the data directly as the download is done automatically in the Jupyter notebooks.
 
