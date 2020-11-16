@@ -29,4 +29,4 @@ You do not need to download the data directly as the download is done automatica
 - Access and execute the Jupyter notebooks in sequential order, starting from "CustomerReviews_1_DataPreparation.ipynb". 
 - When prompted, insert the authorization code provided by Google. This is needed to correctly set up a shared storage that can be accessed by multiple Jupyter notebooks, so that you can save the output of a Jupyter notebook to one file and then read it back from that file using a different Jupyter notebook.
 
-During the tutorial, we will need a Google account connected to Google Drive. For this reason, you might consider the option of creating a new Google account for this tutorial.
+During the tutorial, we will need a Google account connected to Google Drive. For this reason, you might consider the option of creating a dedicated Google account.
